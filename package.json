@@ -1,0 +1,27 @@
+{
+  "name": "portofolio-menggunakan-react-js",
+  "version": "1.0.0",
+  "description": "Mencoba membangun website portofolio dengan tampilan interaktif menggunakan React.js untuk menampilkan proyek, informasi pribadi, serta pengalaman secara dinamis dan responsif.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranggaa19/Portofolio-Menggunakan-React-Js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranggaa19/Portofolio-Menggunakan-React-Js/issues"
+  },
+  "homepage": "https://github.com/Ranggaa19/Portofolio-Menggunakan-React-Js#readme",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.0"
+  }
+}
